@@ -65,7 +65,7 @@ export function NuevoItem() {
                               </FormGroup>
                               <FormGroup>
                                    <Label>precio</Label>
-                                   <Input type="number" name="precio" onChange={inputChangeValue} value={item.price} />
+                                   <Input type="number" name="price" onChange={inputChangeValue} value={item.price} />
                               </FormGroup>
                          </Form>
                          <Button color="primary" className="me-4" onClick={guardar}>Guardar</Button>
