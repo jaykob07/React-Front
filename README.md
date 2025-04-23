@@ -9,7 +9,7 @@ Este repositorio contiene el **frontend** de una aplicación CRUD desarrollada c
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/)
-- [React Router](https://reactrouter.com/) (si aplica)
+- [React Router](https://reactrouter.com/) 
 - [Reactstrap](https://github.com/reactstrap/reactstrap)
 
 ---
