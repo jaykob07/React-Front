@@ -29,7 +29,7 @@ Este repositorio contiene el **frontend** de una aplicación CRUD desarrollada c
 Clona el proyecto y entra en el directorio:
 
 ```bash
-git clone https://github.com/tu-usuario/React-Front.git
+git clone https://github.com/jaykob07/React-Front.git
 cd nombre-del-repositorio-frontend
 npm create vite@latest nombre-del-proyecto
 ## luego
